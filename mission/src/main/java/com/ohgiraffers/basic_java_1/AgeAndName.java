@@ -1,4 +1,4 @@
-package com.ohgiraffers.lv2;
+package com.ohgiraffers.basic_java_1;
 
 public class AgeAndName {
     public static void main(String[] args) {
